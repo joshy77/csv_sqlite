@@ -1,0 +1,35 @@
+body{
+    background-color: #E4EDF4;
+    
+}
+.form{
+    background-color:#FFFFFF; 
+    padding: 50px  50px 50px 350px;
+    border: 2px solid black;
+        
+}
+.form h3{
+    
+}
+#box{
+    padding: 150px  100px 150px 100px;
+}
+h3{
+    color: red;
+   }
+   
+   #view{
+      border: 2px solid black;
+      margin-left:300px;
+      padding: 50px  100px 150px 100px;
+      width: 500px;
+      height: 500px;
+      overflow: scroll;
+        }   
+        #view h3{
+            position:fixed;
+            top:20px;
+            left:450px;
+            
+            
+        }
